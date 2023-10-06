@@ -1,0 +1,443 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container1 {
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+.bg-container {
+    background-image: url("https://schoolaura.com/Content/new_assets/images/header/banner-bg.png");
+    background-color: pink;
+    height: 90vh;
+    width: 100%;
+}
+
+.header-contact {
+    background-color: white;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.icon-size {
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.icon-contact {
+    background-color: red;
+    color: white;
+}
+
+.contact-details {
+    height: 20px;
+    width: 40%;
+    padding-left: 25px;
+}
+
+.contact-no {
+    margin-right: 10px;
+}
+
+.contact-links {
+    height: 20px;
+    width: 60%;
+    padding-right: 30px;
+}
+
+.whatsapp {
+    background-color: green;
+    margin-right: 20px;
+    color: white;
+    height: 25px;
+    width: 110px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.mobile-app {
+    background-color: Skyblue;
+    margin-right: 20px;
+    color: white;
+    height: 25px;
+    width: 110px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.user-login {
+    background-color: yellowgreen;
+    margin-right: 20px;
+    color: white;
+    height: 25px;
+    width: 60px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.user-registration {
+    background-color: brown;
+    margin-right: 20px;
+    color: white;
+    height: 25px;
+    width: 100px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.header-navbar {
+    width: 40%;
+    background-color: rgb(255, 0, 153);
+    width: 100%;
+}
+
+.header-logo {
+    width: 40%;
+}
+
+.button {
+    width: 50%;
+}
+
+.image {
+    height: 60px;
+    width: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.icon-bar {
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+
+.highlight {
+    color: white;
+}
+
+.paragraph1 {
+    color: white;
+}
+
+.card {
+    height: 280px;
+    width: 450px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 20px;
+}
+
+.button {
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.paragraph {
+    margin-top: 10px;
+}
+
+.text {
+    width: 80%;
+}
+
+.login {
+    height: 350px;
+    width: 330px;
+    background-color: goldenrod;
+}
+
+.stulogin {
+    color: rgb(255, 47, 161);
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.parelogin {
+    color: green;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.link {
+    margin-top: 40px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.user {
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.input {
+    width: 200px;
+    margin-left: 50px;
+}
+
+.eyeicon {
+    margin-left: 50px;
+}
+
+.button12 {
+    width: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: skyBlue;
+    color: white;
+}
+
+.para {
+    font-size: 5px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.paragraph121 {
+    margin-right: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+.management {
+    background-color: black;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+.card21 {
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    color: aliceblue;
+}
+
+.heading23 {
+    font-size: 20px;
+}
+
+.head {
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.about {
+    width: 100vw;
+}
+
+.paragraph56 {
+    font-size: 20px;
+}
+
+.resourses {
+    margin-top: 60px;
+}
+
+.card45 {
+    height: 400px;
+    width: 1100px;
+}
+
+.heading76 {
+    color: orangered;
+}
+
+.heading765 {
+    color: black;
+}
+
+.card90 {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn1 {
+    color: orange;
+    height: 50px;
+    width: 250px;
+    border-color: white;
+    background-color: white;
+    border-left: 5px solid red;
+}
+
+.btn12 {
+    color: orange;
+    height: 50px;
+    width: 250px;
+    background-color: rgb(212, 206, 206);
+    border-color: white;
+}
+
+.card93 {
+    color: orange;
+    height: 60px;
+    width: 250px;
+    margin-left: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+}
+
+.headimage {
+    width: 50px;
+    margin-top: 0px;
+    background-color: rgb(12, 29, 29);
+}
+
+.heading88 {
+    color: #545751;
+    font-size: 40px;
+}
+
+.para4 {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.para2 {
+    color: #545751;
+}
+
+.heading65 {
+    text-align: center;
+}
+
+.heading654 {
+    color: black;
+    font-weight: bold;
+}
+
+.spanc {
+    color: red;
+    font-weight: bold;
+}
+
+.card234 {
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    margin-right: 20px;
+    border-radius: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.headingtask {
+    text-align: center;
+    font-size: 20px;
+}
+
+.tasklogo {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.paragraph90 {
+    font-size: 15px;
+}
+
+.card214 {
+    margin-bottom: 30px;
+}
+
+.schoolmanagemtnt {
+    margin-left: 10px;
+}
+
+.access {
+    height: 400px;
+    background-color: whitesmoke;
+}
+
+.applogo {
+    width: 35%;
+}
+
+.log-element {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.heading567 {
+    color: black;
+}
+
+.mob {
+    color: red;
+}
+
+.paragraph67 {
+    color: black;
+}
+
+.downlogbtn {
+    width: 150px;
+    background-color: rgb(168, 129, 131);
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.edubenefits {
+    margin-top: 160px;
+}
+
+.stupic {
+    width: 150px;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.card23 {
+    width: 40%;
+}
+
+.lowerpart {
+    background-image: url("https://schoolaura.com/Content/new_assets/images/spreading/Clip.png");
+    height: 100px;
+    width: 90%;
+    margin-left: 400px;
+    background-color: rgb(142, 176, 96);
+}
+
+.mob1 {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.heading09 {
+    color: blue;
+    margin-top: 20px;
+    font-size: 30px;
+    margin-right: 60px;
+    text-align: center;
+    font-weight: bold;
+}
